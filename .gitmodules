@@ -1,0 +1,9 @@
+[submodule "twinkle-tracker-mechanical"]
+	path = twinkle-tracker-mechanical
+	url = https://github.com/wimbleimble/twinkle-tracker-mechanical
+[submodule "twinkle-tracker-pcb"]
+	path = twinkle-tracker-pcb
+	url = https://github.com/wimbleimble/twinkle-tracker-pcb
+[submodule "twinkle-tracker-firmware"]
+	path = twinkle-tracker-firmware
+	url = https://github.com/wimbleimble/twinkle-tracker-firmware
